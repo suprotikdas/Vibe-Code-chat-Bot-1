@@ -1,0 +1,12 @@
+{
+  "name": "voter-flow-web-server",
+  "version": "1.0.0",
+  "description": "Flutter Web Node Server for Cloud Run",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,14 @@
+.gcloudignore
+.git/
+.github/
+.idea/
+.dart_tool/
+android/
+ios/
+macos/
+linux/
+windows/
+test/
+
+# DO NOT ignore build/web
+!build/web/
